@@ -1,4 +1,4 @@
-# Script Manager
+# Repertoire
 
 A simple application for managing eScripts.
 
